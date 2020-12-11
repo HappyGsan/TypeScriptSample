@@ -1,0 +1,2 @@
+# TypeScriptSample
+for Learning TypeScript
